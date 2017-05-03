@@ -9,3 +9,5 @@ It also means that you’re strongly encouraged to help share your thoughts, exp
 This goes for tools and techniques as much as it goes for prose. Basecamp not only tries to out- teach the competition, but also out-share and out- collaborate. We’re prolific open source contributors through Ruby on Rails, Trix, Turbolinks, Pow, and many other projects. Extracting the common infrastructure that others could use as well is satisfying, important work, and we should continue to do that.
 
 It's also worth mentioning that joining Basecamp can be all-consuming. We've seen it happen. You dig Basecamp, so you feel pressure to contribute, maybe overwhelmingly so. The people who work here are some of the best and brightest in our industry, so the self-imposed burden to be exceptional is real. But here's the thing: stop it. Settle in. We're glad you love this job because we all do too, but at the end of the day it's a job. Do your best work, collaborate with your team, write, read, learn, and then turn off your computer and play with your dog. We'll all be better for it.
+
+Next: [What We Stand For](https://github.com/basecamp/handbook/blob/master/what-we-stand-for.md)

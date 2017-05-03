@@ -24,11 +24,11 @@ Health insurance is provided in the US via Blue Cross Blue Shield PPO. The compa
 
 #### Vision
 
-* Basecamp doesn't offer vision insurance, but our medical insurance plan gives us discounts on eye exams, glasses, and contact lenses. 
+* Basecamp doesn't offer vision insurance, but our medical insurance plan gives us discounts on eye exams, glasses, and contact lenses.
 
 #### Flexible Spending Account (FSA)
 
-The FSA is an account where you can set aside pre-tax money for out-of-pocket medical expenses, such as prescriptions, over-the-counter medicine, vision care, etc. You have to decide up front how much money you want to put in the account, and the max is $2,400/year.  There is a separate type of FSA for dependent care (child or elder care), and the max for that plan is $5,000/year. This is an entirely optional program; if you don't think you'll use it, you need not sign up.  
+The FSA is an account where you can set aside pre-tax money for out-of-pocket medical expenses, such as prescriptions, over-the-counter medicine, vision care, etc. You have to decide up front how much money you want to put in the account, and the max is $2,400/year.  There is a separate type of FSA for dependent care (child or elder care), and the max for that plan is $5,000/year. This is an entirely optional program; if you don't think you'll use it, you need not sign up.
 
 ### Vacations & Holidays
 
@@ -52,17 +52,17 @@ Our 401K is through Vanguard. Basecamp matches dollar-for-dollar up to 6% of you
 
 ### Employee Liquidity Pool
 
-If Basecamp is ever sold or part of an IPO, tenured employees will be eligible to receive a portion of 5% of the value of the company. That 5% would be divided into units, based on the number of employees we have at the time. People who were Basecampers for less than 1 year would receive 0 units, someone employed 1 year would receive 1 unit, and so on, until you're fully vested at 5 years for 5 units. 
+If Basecamp is ever sold or part of an IPO, tenured employees will be eligible to receive a portion of 5% of the value of the company. That 5% would be divided into units, based on the number of employees we have at the time. People who were Basecampers for less than 1 year would receive 0 units, someone employed 1 year would receive 1 unit, and so on, until you're fully vested at 5 years for 5 units.
 
 ## Perks
 
 ### Fitness Allowance
 
-Basecamp will pay up to $100/month for your gym membership, yoga studio membership, or whatever activity you do to stay in shape. If it's not organized fitness, that's okay, too. You can use your stipend to pay for race registrations or even new outdoor running shoes. The only catch is that you can't "save up" your stipend. Sorry, but no saving 9 months worth of fitness benefit, and buying a new bike; this benefit is meant to promote regular activity for you. 
+Basecamp will pay up to $100/month for your gym membership, yoga studio membership, or whatever activity you do to stay in shape. If it's not organized fitness, that's okay, too. You can use your stipend to pay for race registrations or even new outdoor running shoes. The only catch is that you can't "save up" your stipend. Sorry, but no saving 9 months worth of fitness benefit, and buying a new bike; this benefit is meant to promote regular activity for you.
 
 ### Massage Allowance
 
-Every month, you can expense up to $100 towards a massage, as part of Basecamp's health and wellness benefits package.  
+Every month, you can expense up to $100 towards a massage, as part of Basecamp's health and wellness benefits package.
 
 ### Community Supported Agriculture (CSA) Allowance
 
@@ -96,3 +96,6 @@ If you work in the US, you should carry a Basecamp American Express card in your
 use the card for any work-related expenses, such as travel, software, or office supplies. If you have any doubts about whether or not to expense something, just ask. When you do buy something with the card, get a receipt! Take a photo of that receipt, and send the photo to 37receipts@gmail.com. If you can’t use the Amex and have to use a personal card, send the receipt directly to Andrea for reimbursement.
 
 Basecamp has no expense policy. We trust our employees to spend money wisely. If you’re booking a flight, you don’t need to buy the cheapest, 2-layover redeye; buy the convenient, well-priced seat. If you’re attending a conference on behalf of Basecamp, sure, Basecamp will buy your meals. Just try to stay away from caviar and champagne at dinner (okay, maybe once if you have a killer day to celebrate). If you have questions about what “spend it wisely” means, just ask!
+
+Next: [Getting Started](https://github.com/basecamp/handbook/blob/master/getting-started.md)
+Previous: [Where We Work](https://github.com/basecamp/handbook/blob/master/where-we-work.md)

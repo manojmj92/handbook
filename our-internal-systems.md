@@ -39,3 +39,6 @@ https://customer.io
 Shipshape is how we make sure our work computers are up to Basecamp's strict security protocol. When you're given access to Basecamp's GitHub account, you can run Shipshape to be sure you're up to code. Shipshape will also test your machine periodically to let you know (and our SIP team know) if your machine springs a leak and needs bailing out.
 
 https://github.com/basecamp/shipshape
+
+Next: [A Note About Moonlighting](https://github.com/basecamp/handbook/blob/master/moonlighting.md)
+Previous: [Making a Career](https://github.com/basecamp/handbook/blob/master/making-a-career.md)

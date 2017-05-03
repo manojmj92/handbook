@@ -4,7 +4,7 @@
 
 The Basecamp HQ is in Chicago, in the West Loop neighborhood. Thirteen people and one frog have desk space in the Chicago office, but those people also work from home regularly. We moved into the office in August 2010, and before that, 37signals shared space with our friends at [Coudal Partners](http://www.coudal.com). The office is also where we twice a year gather the whole company for the meet-up.
 
-Anyone is welcome to visit Chicago and work from the office at any time. 
+Anyone is welcome to visit Chicago and work from the office at any time.
 
 ## From home
 
@@ -17,3 +17,6 @@ Working from home all the time isn't everyone's cup of coffee. Thus, lots of us 
 ## From a coworking space
 
 If working for home or from a coffee shop doesn't suit you, then trying a coworking space might just do the trick. Basecamp offers a $100/month stipend towards a desk in such a place.
+
+Next: [Benefits & Perks](https://github.com/basecamp/handbook/blob/master/benefits-and-perks.md)
+Previous: [Who Does What?](https://github.com/basecamp/handbook/blob/master/orgchart.md)

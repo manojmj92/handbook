@@ -1,6 +1,6 @@
 # Making a Career
 
-The average tenure of employees working at many technology companies today is shockingly low. At both Amazon and Google, it's [just around one year](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/). At Basecamp, it's just around five years as of late 2016. That's something to be proud of and something to ensure endures. When you work at Basecamp, it should absolutely be feasible to think about this as the place for making a life-long career. 
+The average tenure of employees working at many technology companies today is shockingly low. At both Amazon and Google, it's [just around one year](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/). At Basecamp, it's just around five years as of late 2016. That's something to be proud of and something to ensure endures. When you work at Basecamp, it should absolutely be feasible to think about this as the place for making a life-long career.
 ## Mastery & Titles
 
 Advancing your career at Basecamp doesn't mean giving up on your craft and moving into "management". Whether you work in programming, design, ops, support, or whatever, you can become better at the work itself and level-up that way. This is especially important since we're a relatively small company with just two layers of managerial cake: executives and team heads. And both the executives and heads still spend the majority of their time doing actual work themselves as well.
@@ -38,3 +38,6 @@ We perform bi-yearly reviews in May and November. Everyone who has been with the
 * The head of your team will schedule a one-hour meeting to discuss.
 
 The head of your team will reach out to you when it's time for you to write up your review. Of course you can (and should) ask for feedback as often as you'd like it.
+
+Next: [Our Internal Systems](https://github.com/basecamp/handbook/blob/master/our-internal-systems.md)
+Previous: [Our Rituals](https://github.com/basecamp/handbook/blob/master/our-rituals.md)

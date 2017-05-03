@@ -1,9 +1,9 @@
 # Our Rituals
 
 ## Meetups
-Twice a year, the entire company gathers in Chicago for a week. Your first meet-up will be overwhelming; there are a lot of people to meet, most or all of whom you've only chatted with virtually. People tend to arrive to Chicago on the Sunday before the meet-up, but 'campers who travel longer distances (Hong Kong and Australia, I'm looking at you!) arrive earlier to beat the jet lag. Basecamp books a hotel room block in a hotel nearby, so you don't need to worry about finding a place to stay. 
+Twice a year, the entire company gathers in Chicago for a week. Your first meet-up will be overwhelming; there are a lot of people to meet, most or all of whom you've only chatted with virtually. People tend to arrive to Chicago on the Sunday before the meet-up, but 'campers who travel longer distances (Hong Kong and Australia, I'm looking at you!) arrive earlier to beat the jet lag. Basecamp books a hotel room block in a hotel nearby, so you don't need to worry about finding a place to stay.
 
-Every morning, we gather for breakfast at 8am, and sessions start around 9am. The meet-up is not structured. There are some scheduled talks - Jason and David generally talk about the state of the company on Monday or Tuesday morning, and other Basecampers may want to give a talk about a special circumstance they've seen in the past 6 months. Occasionally, we bring in outside speakers, too. But, day-to-day, the meet-up is very loosely scheduled. Teams work together in a room at the office; people go out for coffee or ice cream; managers schedule one-on-ones with employees; Pratik beats everyone at ping pong. 
+Every morning, we gather for breakfast at 8am, and sessions start around 9am. The meet-up is not structured. There are some scheduled talks - Jason and David generally talk about the state of the company on Monday or Tuesday morning, and other Basecampers may want to give a talk about a special circumstance they've seen in the past 6 months. Occasionally, we bring in outside speakers, too. But, day-to-day, the meet-up is very loosely scheduled. Teams work together in a room at the office; people go out for coffee or ice cream; managers schedule one-on-ones with employees; Pratik beats everyone at ping pong.
 
 Lunch is also shared in the office at noon, and dinners are up to you aside from one all-company dinner on Tuesday evening.
 
@@ -20,8 +20,11 @@ One of the sessions that we do schedule every meet-up is the recognition awards 
 Once every month or two, everyone in the company is called upon to do a Support shift. We call it Everyone on Support (EOS). Talking directly to customers all day helps us realize what's wrong, what's right, and what's utterly confusing about Basecamp. For the first few times you do EOS, you'll have a Support buddy to help you write clear and correct answers to customer questions through Help Scout, our support response tool, but then you're on your own! But don't worry - Team OMG is always there to help you out.
 
 ## 5x12s
-Every month, Andrea randomly selects 5 people to chat on a call with Jason and David. The call has no agenda nor is there any preparation needed (besides putting on pants — please put on pants). The participants join a Google Hangout and chat about anything other than work. 
+Every month, Andrea randomly selects 5 people to chat on a call with Jason and David. The call has no agenda nor is there any preparation needed (besides putting on pants — please put on pants). The participants join a Google Hangout and chat about anything other than work.
 
 Some interesting topics that have been covered in the past: Jamie’s $1,000 toilet, Noah’s intense longing for a dog, Wailin’s Ted Cruz sighting, and petty juvenile delinquency stories from an alarming number of employees. 5x12s happen on the first Wednesday of every month at 10AM Chicago time. Andrea transcribes the call and posts the transcription in Basecamp for everyone to read afterwards.
 
 We have a strict policy of not sharing anything that’s said in a 5x12 in a public forum, so you can talk freely. These calls are supposed to be fun, so please try to have a good time with them!
+
+Next: [Making a Career](https://github.com/basecamp/handbook/blob/master/making-a-career.md)
+Previous: [How We Work](https://github.com/basecamp/handbook/blob/master/how-we-work.md)

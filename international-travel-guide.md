@@ -132,3 +132,6 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 Hitting a snag or have any questions? Ping Jeremy or Andrea and we can help.
 
 You're welcome to edit and improve this document yourself, too. Please do!
+
+Next: [Frequently Asked Questions](https://github.com/basecamp/handbook/blob/master/faq.md)
+Previous: [A Note About Moonlighting](https://github.com/basecamp/handbook/blob/master/moonlighting.md)

@@ -15,3 +15,6 @@ If you want to learn the Basecamp view of the world, it helps to know the influe
 * [Kathy Sierra](https://en.wikipedia.org/wiki/Kathy_Sierra)
 * [Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander)
 * [Bob Moesta](https://blog.intercom.com/podcast-bob-moesta-on-jobs-to-be-done/)
+
+Next: [Vocabulary](https://github.com/basecamp/handbook/blob/master/vocabulary.md)
+Previous: [What We Stand For](https://github.com/basecamp/handbook/blob/master/what-we-stand-for.md)

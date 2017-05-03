@@ -1,4 +1,4 @@
-# A Note About Moonlighting 
+# A Note About Moonlighting
 
 No, not the amazing 1980s sitcom starring Cybill Shepherd and whats-his-name from Hudson Hawk. Moonlighting means working other professional, paid jobs outside of your work at Basecamp. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. But we want to make sure professional endeavors outside of Basecamp don’t create conflicts of interest or affect your time, dedication, or performance at Basecamp. So it’s a delicate balance.
 
@@ -40,3 +40,6 @@ Here’s a few guiding principles about whether something could be a problem:
 In general we’d like to be lenient within reason, but we’re going be strict if we see it impact your time, attention, or performance here at work.
 
 It’s hard to come up with one-size fits all rules. If you’re in doubt, please reach out to Jason or David. We’re always happy to spare a moment to give our thoughts on it before you make a commitment.
+
+Next: [International Travel Guide](https://github.com/basecamp/handbook/blob/master/international-travel-guide.md)
+Previous: [Our Internal Systems](https://github.com/basecamp/handbook/blob/master/our-internal-systems.md)

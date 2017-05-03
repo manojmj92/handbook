@@ -18,17 +18,17 @@ We’re currently naming the cycles after glorious mountains on earth and beyond
 
 ## Heartbeats
 
-It’s hard to keep up on what everyone is doing and what it means, if you just watch the stream of latest activity scrolling along in Basecamp. (It’s also a waste of time and source of stress to even try.) Instead, we have three chief mechanisms for keeping everyone in the loop about the work that’s going on. 
+It’s hard to keep up on what everyone is doing and what it means, if you just watch the stream of latest activity scrolling along in Basecamp. (It’s also a waste of time and source of stress to even try.) Instead, we have three chief mechanisms for keeping everyone in the loop about the work that’s going on.
 
 First, there’s the daily question of [What did you work on today?](https://3.basecamp.com/2914079/buckets/431372/questions/80177203), which supplies the nitty gritty details, but as a personal narrative. They’re a great conversation starter if you see someone working on something you either care about or want to learn more about. Please do use them as such!
 
 Second, there’s the weekly question of [What will you be working on this week?](https://3.basecamp.com/2914079/buckets/431372/questions/61224583) which answers the nitty gritty at a slightly higher level. Well, at least the intentions of that!
 
-Third, and finally, there is [the team updates](https://3.basecamp.com/2914079/buckets/431372/message_boards/61224577). They usually happen half-way through a cycle, at the end of a cycle, or when something new is launched. This is where the big presentation of work is done, and the main way for you to keep in the loop with what the company is focused on at a high, digestible level. 
+Third, and finally, there is [the team updates](https://3.basecamp.com/2914079/buckets/431372/message_boards/61224577). They usually happen half-way through a cycle, at the end of a cycle, or when something new is launched. This is where the big presentation of work is done, and the main way for you to keep in the loop with what the company is focused on at a high, digestible level.
 
 ## Pitches
 
-Whether you work on the product development or not, your voice and observations can help determine what we should be working on. The way to exert this influence is through pitches. 
+Whether you work on the product development or not, your voice and observations can help determine what we should be working on. The way to exert this influence is through pitches.
 
 Write-up your idea of a new feature, a change to a feature, or any other product development you think we should be considering as a fully considered post (the more specific, the better). This gives the whole company a chance to consider and respond to the idea, and then we'll have the idea encapsulated in a post, available for reference at any time.
 
@@ -65,3 +65,6 @@ When we need to use the staging database, that should be self-service too. Have 
 None of this means we can’t talk together or ask experts with more experience or expertise for their advice. It just means it shouldn’t be a required, necessary step to make Basecamp better.
 
 As soon as organizational bottlenecks form, like a slew of features waiting for “the mobile integration”, we’re dragged towards more micro and detailed schedule management. It becomes a critical path with dependencies and making sure team Z is available just at the right moment for team A, such that nobody is blocked. That’s a poor fit for our organizational aspirations, so we have to work to counter that.
+
+Next: [Our Rituals](https://github.com/basecamp/handbook/blob/master/our-rituals.md)
+Previous: [Getting Started](https://github.com/basecamp/handbook/blob/master/getting-started.md)
